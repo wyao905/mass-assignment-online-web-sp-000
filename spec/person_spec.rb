@@ -3,7 +3,6 @@
 # freebie test to make sure you've actually defined the models you plan on
 # testing.
 
-require_relative './spec_helper'
 
 describe Person do
 
